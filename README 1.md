@@ -77,6 +77,16 @@ This is a React Native shopping app with a home screen displaying various produc
 - Displays items added to the cart.
 - Each item has a "Remove from Cart" button.
 
+  ### ProductDetails
+- Displays the details about the products
+- Displays other needed informations
+- 
+![WhatsApp Image 2024-07-12 at 17 59 51_b9588199](https://github.com/user-attachments/assets/13df78eb-ef1b-4e9f-80c5-ee57539c3fe1)
+
+### A Drawer Component
+![WhatsApp Image 2024-07-12 at 17 59 51_7680dc84](https://github.com/user-attachments/assets/669dbc65-6dcb-4a2b-b0a8-cc337830ebd0)
+
+
 ## Dependencies
 
 - `react-native`: The core React Native library.
